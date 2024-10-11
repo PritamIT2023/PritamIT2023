@@ -1,7 +1,7 @@
 # pritammondal
 
 <h1 align="center">Hi 👋, I'm Pritam Mondal</h1>
-<h3 align="center">A passionate backend developer from India,kolkata.</h3>
+<h3 align="center">A passionate backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamit2023&label=Profile%20views&color=0e75b6&style=flat" alt="pritamit2023" /> </p>
 
